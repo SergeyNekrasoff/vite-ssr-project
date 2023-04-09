@@ -1,0 +1,8 @@
+{
+  "version": "0.4.112",
+  "usesClientRouter": false,
+  "manifestKeyMap": {},
+  "baseServer": "/vite-ssr-project",
+  "baseAssets": "/vite-ssr-project",
+  "includeAssetsImportedByServer": false
+}
